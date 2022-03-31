@@ -1,0 +1,66 @@
+
+#img-div{
+    background-color: #f5f5f0;
+    border:10px solid #ebebe0;
+    margin-bottom: 10px;
+}
+
+.title{
+    text-align: center;
+    background-color:#f8f8f6e7 ;
+    font-size: 65px ;
+}
+
+.great{
+    font-size: 20px;
+    text-align: center      ;
+}
+
+.tribute-info{
+    text-align: center;
+    background-color: faf9f9;
+    font-size: 23px ;
+}
+
+.para{
+    padding: 10 10 10 10;
+    font-size: 25px;
+    background-color: #faf9f9;
+}
+
+.bq{
+    text-align: center;
+    font-size: 25px;
+    background-color: #faf9f9 ;
+}
+
+
+.quote{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.hthree{
+    text-align: center;
+    font-weight: 550;
+}
+
+
+
+
+img {
+    box-shadow: 5px 10px 8px #a3a375;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption{
+    margin:15px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: #6b6b47;
+}
